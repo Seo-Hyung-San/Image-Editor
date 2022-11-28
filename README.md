@@ -7,16 +7,16 @@
 
 ## Use Lang
 
-- Python,
-- Javascript,
+- Python
+- Javascript
 - PHP
 
 ## Use Library & API
 
-- Lama,
-- EasyOCR,
-- OpenCV,
-- Papago API,
+- Lama
+- EasyOCR
+- OpenCV
+- Papago API
 - Google Translation API
 - KonvaJS
 
