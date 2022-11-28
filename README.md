@@ -67,7 +67,7 @@
 - Period : 2022-08-22 ~ 2022-11-14
 - 개인 작업물 메모를 위한 ReadMe로 따로 소스코드는 공개하지 않음.
 
-## Links
+## References
 
 - KonvaJS (<https://konvajs.org/api/Konva.html>)
 - EasyOCR (<https://github.com/JaidedAI/EasyOCR>)
