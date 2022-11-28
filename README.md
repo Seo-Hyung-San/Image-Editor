@@ -26,7 +26,7 @@
 <br><br>
 <div align="center">
 
-# ★Simulation★
+# =Simulation=
   
 </div>
 
