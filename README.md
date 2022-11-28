@@ -23,29 +23,44 @@
 ## DataBase
 
 - MariaDB
+<br><br>
+<div align="center">
 
-## Simulation
+# ★Simulation★
+  
+</div>
 
-- Detecting
+<div align="center">
+
+# Detecting
+<br>
 <img src="https://user-images.githubusercontent.com/104816477/204179442-3ef17b2b-1560-44c9-950e-7df601b03373.gif" width="500px" height="500px"></img>
 
-- Translate
+# Translate
+<br>
 <img src="https://user-images.githubusercontent.com/104816477/204179464-901d3495-5794-4ec4-8125-cf7966bf3312.gif" width="500px" height="500px"></img>
 
-- Editing
+# Editing
+<br>
 <img src="https://user-images.githubusercontent.com/104816477/204179487-6fbfd93a-fa49-4c72-80c5-b29d4196bc86.gif" width="500px" height="500px"></img>
 
-- Merge
+# Merge
+<br>
 <img src="https://user-images.githubusercontent.com/104816477/204180109-5349e345-ffd3-43e1-8b62-fe184ded6cc2.gif" width="500px" height="500px"></img>
 
-- Crop
+# Crop
+<br>
 <img src="https://user-images.githubusercontent.com/104816477/204179956-ec23bc7c-408f-4a03-9283-a150e98b2e80.gif" width="500px" height="500px"></img>
 
-- Eraser
+# Eraser
+<br>
 <img src="https://user-images.githubusercontent.com/104816477/204179579-db5d614f-fb4a-4a51-a4f7-706287437076.gif" width="500px" height="500px"></img>
 
-- Redo & Undo
+# Redo & Undo
+<br>
 <img src="https://user-images.githubusercontent.com/104816477/204179585-285a4e24-e92b-4286-a804-e150bba03f61.gif" width="500px" height="500px"></img>
+
+</div>
 
 ## Info
 
