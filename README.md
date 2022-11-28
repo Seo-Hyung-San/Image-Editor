@@ -7,19 +7,37 @@
 
 ## Use Lang
 
-> Python,
-> Javascript,
-> PHP
+- Python,
+- Javascript,
+- PHP
 
 ## Use Library & API
 
-> Lama,
-> EasyOCR,
-> OpenCV,
-> Papago API,
-> Google Translation API
+- Lama,
+- EasyOCR,
+- OpenCV,
+- Papago API,
+- Google Translation API
+- KonvaJS
 
 ## DataBase
 
-> MariaDB
+- MariaDB
 
+## Testing
+
+- 
+
+## Info
+
+- Period : 2022-08-22 ~ 2022-11-14
+- 개인 작업물 메모를 위한 ReadMe로 따로 소스코드는 공개하지 않음.
+
+## Links
+
+- KonvaJS (<https://konvajs.org/api/Konva.html>)
+- EasyOCR (<https://github.com/JaidedAI/EasyOCR>)
+- Lama (<https://github.com/saic-mdal/lama>)
+- Lama-cleaner (<https://github.com/Sanster/lama-cleaner>)
+- PAPAGO API (<https://developers.naver.com/docs/papago/README.md>)
+- Google Translation (<https://cloud.google.com/translate/docs/overview>)
