@@ -38,7 +38,7 @@
 
 # Translate
 <br>
-<img src="https://user-images.githubusercontent.com/104816477/204208804-d57018f2-08c9-40ce-a340-e2ea057e1c97.gif">
+<img src="https://user-images.githubusercontent.com/104816477/209915016-76075e1f-79ef-4c70-9e3d-be8f43fd3135.gif">
 
 # Editing
 <br>
@@ -54,7 +54,7 @@
 
 # Eraser
 <br>
-<img src="https://user-images.githubusercontent.com/104816477/204208833-6d021829-f12b-4170-8e14-0a23307be7de.gif">
+<img src="https://user-images.githubusercontent.com/104816477/209915019-9ffaaeeb-91f2-458f-a448-c945f2a8060e.gif">
 
 # Redo & Undo
 <br>
