@@ -75,3 +75,6 @@
 - Lama-cleaner (<https://github.com/Sanster/lama-cleaner>)
 - PAPAGO API (<https://developers.naver.com/docs/papago/README.md>)
 - Google Translation (<https://cloud.google.com/translate/docs/overview>)
+
+## Memo
+- 2023-01-12: Thread 방식으로 변경하여 텍스트 디텍팅 속도 개선 (8~10s -> 1~2s)
